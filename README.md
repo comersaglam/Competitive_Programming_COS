@@ -1,1 +1,1 @@
-# LeetCode_comersaglam
+# Celaleddin Ömer Sağlam competitive programming solutions.
