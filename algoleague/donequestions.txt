@@ -1,0 +1,22 @@
+-- uğraşma
+- optimize et
+A +
+B +
+C +
+D +
+E --
+F +
+G +
+H +
+I +
+J --
+K +
+L +
+M +
+N +
+O +
+P -(çözülür)
+Q +
+R --
+S --
+T -(çözülür)
